@@ -1,7 +1,7 @@
 - Hi, there🙋‍♀️  
 - I’m Latha , An Aspiring Data Analyst and SQL enthusiast from India.
-- ✨About me in 30 Secs✨
-- 👩‍🎓Hr Background with 5 years of professional experience in Talent acquisition,General Administration and project Coordination functions
+- ✨**About me in 30 Secs**✨
+- 👩‍🎓Hr with 5 years of professional experience 
 -📊 Aspiring to become a Data Analyst
 - ✏Loves working with numbers and learning new skills
 - 📚I’m currently learning SQL,PYTHON and POWER BI

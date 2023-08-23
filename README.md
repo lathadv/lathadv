@@ -1,11 +1,11 @@
-- 👋 Hi, there 
-- 👀 I’m Latha , An Aspiring Data Analyst and SQL enthusiast from India.
-- About me in 30 Secs
-- Hr Background with 6 years of professional experience in Talent acquisition,General Administration and project Coordination functions
-- Aspiring to become a Data Analyst
-- Loves working with numbers and learning new skills
-- I’m currently learning SQL,PYTHON AND POWER BI
-- I use excel for everything - Personal accounts,Meal planning, Habit-tracking etc.
+- Hi, there🙋‍♀️  
+- I’m Latha , An Aspiring Data Analyst and SQL enthusiast from India.
+- ✨About me in 30 Secs✨
+- 👩‍🎓Hr Background with 5 years of professional experience in Talent acquisition,General Administration and project Coordination functions
+-📊 Aspiring to become a Data Analyst
+- ✏Loves working with numbers and learning new skills
+- 📚I’m currently learning SQL,PYTHON and POWER BI
+- 📈I use excel for everything - Personal accounts,Meal planning, Habit-tracking etc.
   
 
 <!---
